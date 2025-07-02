@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Projetos com Brapi.dev
 
 Este repositório contém projetos em Python utilizando a [Brapi.dev](https://brapi.dev/) — uma API gratuita para acessar dados do mercado financeiro brasileiro, como ações, dividendos, indicadores fundamentalistas e muito mais.
@@ -82,3 +83,7 @@ Mais informações: [https://brapi.dev/docs](https://brapi.dev/docs)
 
 Projeto desenvolvido por **Robert Dethemann Gans**  
 Founder da [Gans Academy](https://gans-academy.com) | Professor | Investidor | Criador de soluções em educação financeira e tecnologia.
+=======
+# BrapiDev
+Programas de acesso a dados da Plataforma Brapi.Dev
+>>>>>>> 2200000a5c4a359a6838d5d51dd249876b5e3c66
